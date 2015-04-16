@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AkaAkka", "AkaAkka\AkaAkka.fsproj", "{61829713-BEC8-4048-A9BF-C29C80A6CEE7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AkkaConsole", "AkkaConsole\AkkaConsole.fsproj", "{CCA96249-DB0C-4B90-91DC-0633E1BD3760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsAkkaConsole", "CsAkkaConsole\CsAkkaConsole.csproj", "{87861F91-9A57-4B61-BA55-0F53EA1CD8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61829713-BEC8-4048-A9BF-C29C80A6CEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61829713-BEC8-4048-A9BF-C29C80A6CEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61829713-BEC8-4048-A9BF-C29C80A6CEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61829713-BEC8-4048-A9BF-C29C80A6CEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA96249-DB0C-4B90-91DC-0633E1BD3760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA96249-DB0C-4B90-91DC-0633E1BD3760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA96249-DB0C-4B90-91DC-0633E1BD3760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA96249-DB0C-4B90-91DC-0633E1BD3760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87861F91-9A57-4B61-BA55-0F53EA1CD8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87861F91-9A57-4B61-BA55-0F53EA1CD8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87861F91-9A57-4B61-BA55-0F53EA1CD8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87861F91-9A57-4B61-BA55-0F53EA1CD8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
